@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <i>Currently exploring Machine Learning, RAG, Cloud Computing and Cybersecurity.</i>
+  <i>Currently exploring Machine Learning, RAG, Cloud Computing .</i>
 </p>
 
 ---
